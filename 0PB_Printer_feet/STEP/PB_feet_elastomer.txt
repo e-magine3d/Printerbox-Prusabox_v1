@@ -1,0 +1,13 @@
+= Change log PB_feet_elastomer =
+
+[LAST]
+
+# v2.2 - 2022-12-8 : Larger clamp extremity for better printable.
+
+
+# v2.1 - 2022-12-6 : Larger hole for damper screw.
+
+
+# v2 - 2022-9-7 : Clamp system for easier mounting operation
+
+
