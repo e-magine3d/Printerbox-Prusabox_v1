@@ -1,0 +1,6 @@
+= Change log PB_mk4_cable_rail_V =
+
+[LAST]
+
+# v1 - 2023-5-30 : New part
+

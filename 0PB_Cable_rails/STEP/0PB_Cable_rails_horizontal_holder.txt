@@ -1,0 +1,6 @@
+= Change log 0PB_Cable_rails_horizontal_holder =
+
+[LAST]
+
+# v1.1 - 2023-6-1 : Modification for compatibility with lateral 3kg spool holder
+
