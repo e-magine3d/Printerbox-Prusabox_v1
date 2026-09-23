@@ -1,0 +1,6 @@
+= Change log 0PB_Box_corners_Top_front_left =
+
+[LAST]
+
+# v1.2 - 2023-6-21 : added hole for lateral spool holder PTFE tube
+

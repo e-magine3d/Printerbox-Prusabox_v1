@@ -1,0 +1,6 @@
+= Change log 0PB_Box_corners_quick_removable =
+
+[LAST]
+
+# v1 - 2022-6-22 : New part
+
