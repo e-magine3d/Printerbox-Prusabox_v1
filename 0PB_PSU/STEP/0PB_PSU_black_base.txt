@@ -1,0 +1,6 @@
+= Change log 0PB_PSU_black_base =
+
+[LAST]
+
+# v3.1 - 2024-5-23 : New version with additional space for 12v cable
+

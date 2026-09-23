@@ -1,0 +1,6 @@
+= Change log PB_PSU_power_module_clip =
+
+[LAST]
+
+# v2 : side hole to avoid damaging power buck component
+

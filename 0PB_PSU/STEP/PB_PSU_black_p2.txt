@@ -1,0 +1,6 @@
+= Change log PB_PSU_black_p2 =
+
+[LAST]
+
+# v1.1 - 2022-9-12 : Nuts slots dimensions update for easiest assembling: slot width 2mm & slot height 5.6mm
+
